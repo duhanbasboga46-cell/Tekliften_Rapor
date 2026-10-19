@@ -58,3 +58,6 @@ print("\nGrafikler oluşturuldu:")
 print("- musteri_satislari.png")
 print("- adet_analizi.png")
 print("- birim_fiyat.png")
+
+plt.savefig("Grafikler/toplam_satis.png")
+plt.savefig("Grafikler/adet_analizi.png")
